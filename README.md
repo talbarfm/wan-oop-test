@@ -1,7 +1,9 @@
 # wan-oop-test
-Describe in code a cat, a dog and a cow, that can each make its unique sound (miao, hao, moo). 
-Use the right OOP tools to describe these animals.
+Describe in code a cat, a dog and a cow, that can each make its unique sound (miao, hao, moo),. 
+Use the right OOP tools to describe these animals, so the method makeSound() will print their unique sound.
+Add a main class and method to demonstrate the usage.
 Write all of the classes in one file (dont make the classes public)
+
 
 
 How to run java in the cmd:
